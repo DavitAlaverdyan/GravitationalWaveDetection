@@ -54,9 +54,7 @@ The trained model achieved the following performance on the validation set:
 
 These metrics indicate the model's ability to generalize well to unseen data, with a competitive AUC score suggesting strong predictive capability.
 
-## Acknowledgments
 
-This project is part of the G2Net collaboration, which aims to bring together expertise in gravitational wave physics, geophysics, computing science, and robotics for advancing GW research.
 
 
 
