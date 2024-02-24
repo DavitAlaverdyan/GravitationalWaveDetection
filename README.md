@@ -1,5 +1,4 @@
 # GravitationalWaveDetection
-# Gravitational-Wave-Detection
 
 This repository contains code and resources for a project focused on detecting gravitational wave signals from the mergers of binary black holes using machine learning techniques.
 
