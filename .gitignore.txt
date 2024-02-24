@@ -1,0 +1,15 @@
+# Ignore specific files or directories
+../../setup.py
+../Data/
+../__init__.py
+../models/
+
+# Ignore all files in a directory
+directory_to_ignore/*
+
+# Ignore all .log files
+*.log
+
+# Ignore all files in the root except somefile.txt
+/*
+!somefile.txt
